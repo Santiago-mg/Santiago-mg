@@ -26,7 +26,7 @@ Online store for new, refurbished and verified used phones, built by a small tea
 
 | Repo | Highlights |
 |---|---|
-| [**celularpro-web**](https://github.com/Santiago-mg/celularpro-web) · [live demo](https://proyecto-de-aula-front.vercel.app) | React 18 + TypeScript + Vite, React Hook Form + Zod. **415 Vitest + Testing Library tests**, E2E suites in **Serenity/JS (Screenplay) + Playwright + Cucumber** and **Cypress**, axe accessibility checks. |
+| [**celularpro-web**](https://github.com/Santiago-mg/celularpro-web) | React 18 + TypeScript + Vite, React Hook Form + Zod. **415 Vitest + Testing Library tests**, E2E suites in **Serenity/JS (Screenplay) + Playwright + Cucumber** and **Cypress**, axe accessibility checks. |
 | [**celularpro-api**](https://github.com/Santiago-mg/celularpro-api) | Express + TypeScript REST API with **Clean Architecture**, Prisma + PostgreSQL, JWT, Zod validation, Helmet, login-attempt limiting and load tests. |
 | **CI/CD** | Jenkins orchestrator: typecheck → tests + coverage → **SonarQube Quality Gate** → Docker images → E2E against the running stack → deploy to **Vercel**. |
 
