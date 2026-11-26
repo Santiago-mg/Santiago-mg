@@ -3,7 +3,8 @@
 <p align="center">
   <b>Full-Stack Developer · QA Automation</b><br/>
   TypeScript · React · Node.js — web apps built with clean architecture, automated tests and CI/CD.<br/>
-  📍 Medellín, Colombia &nbsp;·&nbsp; 🎓 Universidad de Medellín
+  📍 Medellín, Colombia &nbsp;·&nbsp; 🎓 Universidad de Medellín<br/><br/>
+  🌐 <a href="https://santiago-mg.vercel.app"><b>Portfolio → santiago-mg.vercel.app</b></a>
 </p>
 
 ---
@@ -58,6 +59,10 @@ Flutter app that stores personal movie notes locally with **Drift (SQLite, also 
 
 React + Express + MySQL app that consumes the REST Countries API. Each service has its own Dockerfile and a **GitHub Actions** matrix pipeline builds and pushes the images to Docker Hub.
 
+#### 🌐 [Portfolio](https://santiago-mg.vercel.app) — this site, built from scratch &nbsp;<sub>[source](https://github.com/Santiago-mg/Portafolio_personal)</sub>
+
+Next.js 16 + React 19 + TypeScript. A cursor brush that reveals my portrait rendered from real test code (Canvas 2D), painted cloud transitions generated from noise, a scroll-linked exploded drawing of my stack, WebGL galleries, a command palette and full keyboard and screen-reader support.
+
 ---
 
 ### 🛠️ Tech stack
@@ -78,7 +83,7 @@ React + Express + MySQL app that consumes the REST Countries API. Each service h
 
 Soy **desarrollador Full-Stack con enfoque en QA Automation**, de Medellín, estudiante de la Universidad de Medellín. Construyo aplicaciones web con **React + TypeScript** y APIs en **Node.js / Express** con **Clean Architecture**, y me tomo en serio la calidad: pruebas unitarias, de integración y **E2E automatizadas** (Cypress, Playwright, Serenity/JS), accesibilidad y pipelines de **CI/CD** con Docker, Jenkins, GitHub Actions y SonarQube.
 
-Estoy abierto a oportunidades como **desarrollador Full-Stack junior o QA Automation**, y a prácticas profesionales.
+Estoy abierto a oportunidades como **desarrollador Full-Stack junior o QA Automation**, y a prácticas profesionales. Mira mi portafolio: **[santiago-mg.vercel.app](https://santiago-mg.vercel.app)**.
 
 ---
 
